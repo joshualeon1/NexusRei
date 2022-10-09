@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joshualeon1
 - 👀 I’m interested in Java, C++, C#, Python & Pair programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java & Python
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: joshualeon7969@gmail.com
